@@ -1,0 +1,23 @@
+					Small			Large
+
+Lamb Bhuna 			£7.00			£8.00
+
+Lamb Curry			£6.00			£7.00
+
+Chicken Curry		£5.00			£5.00
+
+Chicken Palak		£5.00			£6.00
+
+Vegetable Curry		£4.00			£5.00
+
+Keema Balti			£5.00			£6.00
+
+Chana Daal			£4.00			£5.00
+
+Maash Daal 			£4.00			£5.00
+
+Chicken Biryani						£3.00
+
+Lamb Biryani						£3.00
+
+Chicken Pliau						£3.00

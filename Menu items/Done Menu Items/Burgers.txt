@@ -1,0 +1,15 @@
+						Single 			Meal 
+
+Cheese Burger			£2.00			£3.00
+
+Lamb Burger				£2.00			£3.00
+
+Beef Burger				£2.00			£3.00
+
+Fish Burger				£2.00			£3.00
+
+Chicken Zinger Burger	£2.50			£3.50
+
+Chicken Breast Burger	£3.00			£4.00
+
+Vegetable Burger 		£2.00			£3.00
