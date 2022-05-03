@@ -1552,15 +1552,25 @@ table {
 		}
 
 	table td {
-		padding: 0.1em 0.25em;
+		padding: 0.1em 1em 0.1em 1em;
+		align-items: center;
+		text-align: left;
+		align-content: center;
 	}
 
 	table th {
 		color: #171717;
 		font-size: 1em;
 		font-weight: 500;
-		padding: 1em 1em 1em 0em;
+		padding: 1em 1em 1em 1em;
 		text-align: left;
+	}
+
+	#righty {
+		font-size: 1em;
+		font-weight: 500;
+		padding: 1em 1em 1em 1em;
+		text-align: right;
 	}
 
 	table thead {
