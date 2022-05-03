@@ -3069,3 +3069,14 @@ table {
 		  }
 
 	}
+
+	/* Putting each review in a box/container with the stars alligned */
+
+	.container1 {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		align-content: space-around;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
