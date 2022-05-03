@@ -2112,7 +2112,7 @@ table {
 			.wrapper.style1 .title {
 				background: #D5B895 url("images/overlay.png");
 				color: #fff;
-				border-radius: 5px 5px 0px 0px;
+				border-radius: 7px 7px 0px 0px;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -2126,8 +2126,18 @@ table {
 			.wrapper.style2 .title {
 				background: #fff;
 				color: #484d55;
-				border-radius: 5px 5px 0px 0px;
+				border-radius: 7px 7px 0px 0px;
 			}
+
+			.wrapper.style21 {
+				background: #fff;
+			}
+	
+				.wrapper.style21 .title {
+					background: #fff;
+					color: #484d55;
+					border-radius: 7px 7px 0px 0px;
+				}
 
 		.wrapper.style3 {
 			background: #f3f3f3 url("images/overlay.png");
@@ -2462,7 +2472,7 @@ table {
 		#footer .title {
 			background: #14161c url("images/overlay.png");
 			color: #eee;
-			border-radius: 5px 5px 0px 0px;
+			border-radius: 7px 7px 0px 0px;
 		}
 
 		#footer header.style1 {
@@ -3089,4 +3099,25 @@ table {
 		align-content: space-around;
 		flex-wrap: wrap;
 		flex-direction: column;
+	}
+
+	/* About us */
+
+	#img12 {
+		position: relative;
+		float: top;
+		float: right;
+		width: 50%;
+		height: 50%;
+		z-index: 1;
+		opacity: 0.9;
+		overflow:hidden;
+	}
+
+	#aboutleft {
+	margin-top: 70px;
+	margin-left: -31.25em;
+	padding-left: 31.25em;
+	text-align: left;
+    text-align: left;
 	}
